@@ -82,9 +82,13 @@ Predictive Maintenance System in Smart Manufacturing (Using IoT sensors and AI a
 ⚙️ Prompts for Each Type Prompt Type Definition Example Prompt (for Use Case) AI Tools Tested
 
 1)Comparative Analysis Prompt Compares two or more concepts to highlight differences or similarities. “Compare the role of IoT sensors and AI algorithms in improving predictive maintenance in manufacturing.” ChatGPT, Gemini, Claude, Copilot
+
 2)Experiential Perspective Prompt Asks for opinions or experiences from a role-based point of view. “As a plant engineer, describe how predictive maintenance using IoT reduces equipment failures.” ChatGPT, Gemini
+
 3)Everyday Functioning Prompt Relates a technical concept to everyday life. “Explain how predictive maintenance in manufacturing is similar to regular vehicle maintenance reminders in your car.” ChatGPT, Claude
+
 4)Universal Prompt Structures Uses common structures like “Explain [concept] in simple terms.” “Explain predictive maintenance in simple terms with an example from a manufacturing plant.” ChatGPT, Copilot
+
 5)Prompt Size Limitations Deals with long or complex inputs by breaking them into smaller parts. “Summarize this long IoT-based maintenance report into 3 short paragraphs highlighting key performance metrics.” Gemini, ChatGPT 📊 Evaluation Method: Rubric-based Assessment Criteria ChatGPT Gemini Claude Copilot Clarity of Response (0–5) 5 4 4 3 Relevance to Prompt (0 -5) 5 4 5 3 Depth of Explanation (0–5) 5 4 4 3 Creativity/Real-world Connection (0–5) 5 4 5 3 Language Simplicity (0–5) 5 5 4 4 Average Score (out of 25) 25 21 22 16 Performance ⭐ Excellent 👍 Good 👍 Good ⚙️ Average 🧾 Evaluation Summary
 ChatGPT produced the most comprehensive and human-like explanations, especially for experiential and universal prompts.
 
